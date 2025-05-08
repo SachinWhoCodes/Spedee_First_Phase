@@ -8,6 +8,7 @@ const Cart = () => {
                 source={{
                   uri:"https://colourpop.com/collections/all",
                 }}
+                
                 // onNavigationStateChange={handleNavigationChange}
                 startInLoadingState={true}
                 renderLoading={() => (
@@ -20,3 +21,5 @@ const Cart = () => {
 }
 
 export default Cart
+
+// hello
